@@ -1,5 +1,6 @@
 # Google-map-clone
 -Simple Google Map Clone 
 
--implemented using Javascript's DOM 
+-implementation based on Javascript's Document Object Modal(DOM)
+
 -Use of Mapbox Lbrary 
