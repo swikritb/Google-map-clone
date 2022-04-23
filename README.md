@@ -3,4 +3,4 @@
 
 -implementation based on Javascript's Document Object Modal(DOM)
 
--Use of Mapbox Lbrary 
+-Use of Mapbox Library
